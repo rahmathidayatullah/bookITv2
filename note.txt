@@ -1,0 +1,11 @@
+database mongodb
+
+Create a database user
+    username : rahmathidayatullah996
+    password : 4fBHgJMmvrvPxlxB
+
+Your current IP address (118.136.90.93) has been added to enable local connectivity.
+
+url access database : 
+mongodb+srv://rahmathidayatullah996:<password>@bookitv2database.vqrwmxe.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://rahmathidayatullah996:4fBHgJMmvrvPxlxB@bookitv2database.vqrwmxe.mongodb.net/?retryWrites=true&w=majority
